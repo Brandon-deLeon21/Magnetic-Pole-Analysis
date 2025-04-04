@@ -1,1 +1,2 @@
 # Magnetic-Pole-Analysis
+The goal of this project is to create a model of the magnetic pole shifts in an attempt to predict future movement of the magnetic poles. There is a lot of physics of the Earth's core that would go into this for a full understanding of this that I will not be going into. This is purely an analytical model of magnetic pole location shifts from 1590-2025, data provided by National Oceanic and Atmospheric Administration (NOAA).
